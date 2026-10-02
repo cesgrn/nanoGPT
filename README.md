@@ -1,6 +1,6 @@
 # nanoGPT
 
-A minimal implementation of a character-level GPT, built by following Andrej Karpathy's YouTube video [**Let's build GPT: from scratch, in code, spelled out**](https://www.youtube.com/watch?v=kCc8FmEb1nY).
+A minimal implementation of a character-level GPT
 
 ## What is this?
 
