@@ -37,7 +37,7 @@ curl -O https://raw.githubusercontent.com/karpathy/char-rnn/master/data/tinyshak
 
 **2. Train the model**
 ```bash
-python train.py
+python model.py
 ```
 
 The model will print train/val loss every 500 steps and generate a sample at the end.
